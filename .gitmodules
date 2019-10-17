@@ -1,0 +1,4 @@
+[submodule "leonardodimabe/l10n_cl_fe"]
+	path = leonardodimabe/l10n_cl_fe
+	url = git@github.com:leonardodimabe/l10n_cl_fe.git
+	branch = master
